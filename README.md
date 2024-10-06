@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Study
+- 🔭 I’m currently Study 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: [Instagram](https://www.instagram.com/rottencerealls/)
 - 😄 Pronouns: He
